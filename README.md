@@ -3,4 +3,4 @@ wzorce
 
 
 context api
- po zianch w readme podfolder niedostępny
+ po zmianch w readme podfolder niedostępny
